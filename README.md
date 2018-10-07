@@ -72,6 +72,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Software Engineer in India
 - [![twitter-alt][twitter-img]](https://twitter.com/webmasteradi)
   [![github-alt][github-img]](https://github.com/adich23)
+  
+### Ahmad Syauqi
+- I'm web developer, UI/UX and graphic designer
+- [![twitter-alt][twitter-img]](https://twitter.com/zauqiahmad)
+  [![github-alt][github-img]](https://github.com/syauqiahmd)
+  [![facebook-alt][facebook-img]](https://facebook.com/zauqiahmad)
 
 ### Aditya Kolsur
 - I'm a 3rd year student.
